@@ -6,7 +6,6 @@ shadowsocks
 
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
-[![Coverage Status]][Coverage]
 
 A fast tunnel proxy that helps you bypass firewalls.
 
@@ -99,8 +98,6 @@ Bugs and Issues
 [Android]:           https://github.com/shadowsocks/shadowsocks-android
 [Build Status]:      https://img.shields.io/travis/shadowsocks/shadowsocks/master.svg?style=flat
 [Configuration]:     https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File
-[Coverage Status]:   https://jenkins.shadowvpn.org/result/shadowsocks
-[Coverage]:          https://jenkins.shadowvpn.org/job/Shadowsocks/ws/PYENV/py34/label/linux/htmlcov/index.html
 [Debian sid]:        https://packages.debian.org/unstable/python/shadowsocks
 [iOS]:               https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help
 [Issue Tracker]:     https://github.com/shadowsocks/shadowsocks/issues?state=open
