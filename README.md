@@ -5,7 +5,6 @@ shadowsocks
 ===========
 
 [![PyPI version]][PyPI]
-[![Build Status]][Travis CI]
 
 A fast tunnel proxy that helps you bypass firewalls.
 
@@ -23,12 +22,10 @@ Server
 
 Debian / Ubuntu:
 
-    apt install python3-pip
     pip3 install shadowsocks
 
 CentOS:
 
-    yum install python-setuptools && easy_install pip
     pip install shadowsocks
 
 Windows:
